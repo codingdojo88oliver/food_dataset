@@ -1,0 +1,1783 @@
+[
+	{
+		"name": "sweet tamarind chutney",
+		"cuisine": "indian",
+		"ingredients": [
+			"conola oil",
+			"cumin seeds",
+			"ground ginger",
+			"cayenne pepper",
+			"fennel seeds",
+			"asofoetida powder",
+			"garam masala",
+			"water",
+			"white sugar",
+			"tamarind paste"
+		]
+	},
+		{
+		"name": "chicken tikka masala",
+		"cuisine": "indian",
+		"ingredients": [
+			"yogurt",
+			"lemon juice",
+			"cumin",
+			"cinnamon",
+			"cayenne pepper",
+			"black pepper",
+			"ginger",
+			"salt",
+			"chicken breasts",
+			"skewers",
+			"butter",
+			"garlic",
+			"jalapeno pepper",
+			"paprika",
+			"tomato sauce",
+			"heavy cream",
+			"cilantro"
+		]
+	},
+		{
+		"name": "red lentil curry",
+		"cuisine": "indian",
+		"ingredients": [
+			"red lentils",
+			"onion",
+			"vegetable oil",
+			"curry paste",
+			"curry powder",
+			"turmeric",
+			"cumin",
+			"chili powder",
+			"salt",
+			"white sugar",
+			"garlic",
+			"ginger",
+			"tomato puree"
+		]
+	},
+	{
+		"name": "rajma",
+		"cuisine": "indian",
+		"ingredients": [
+			"red kidney beans",
+			"onion",
+			"garlic",
+			"ginger",
+			"vegetable oil",
+			"ghee",
+			"dried chili peppers",
+			"cumin seeds",
+			"cloves",
+			"turmeric",
+			"cumin",
+			"coriander",
+			"tomatoes",
+			"water",
+			"white sugar",
+			"salt",
+			"garam masala",
+			"red pepper",
+			"cilantro leaves"
+		]
+	},
+	{
+		"name": "palak paneer",
+		"cuisine": "indian",
+		"ingredients": [
+			"olive oil",
+			"garilic",
+			"ginger root",
+			"dried chili peppers",
+			"onion",
+			"cumin",
+			"coriander",
+			"turmeric",
+			"sour cream",
+			"spinach",
+			"tomato",
+			"cilantro leaves",
+			"ricotta cheese",
+			"sea salt"
+		]
+	},
+	{
+		"name": "gobi aloo",
+		"cuisine": "indian",
+		"ingredients": [
+			"vegetable oil",
+			"cumin seeds",
+			"garlic",
+			"ginger paste",
+			"potato",
+			"turmeric",
+			"paprika",
+			"cumin",
+			"garam masala",
+			"salt",
+			"cauliflower",
+			"cilantro"
+		]
+	},
+	{
+		"name": "chicken biryani",
+		"cuisine": "indian",
+		"ingredients": [
+			"vegetable oil",
+			"potato",
+			"onion",
+			"garlic",
+			"ginger",
+			"chili powder",
+			"black pepper",
+			"turmeric",
+			"cumin",
+			"salt",
+			"tomato",
+			"yogurt",
+			"mint leaves",
+			"cardamom",
+			"cinnamon stick",
+			"chicken",
+			"saffron",
+			"cloves",
+			"basmati rice",
+			"chicken stock"
+		]
+	},
+	{
+		"name": "navratan korma",
+		"cuisine": "indian",
+		"ingredients": [
+			"vegetable oil",
+			"mixed nuts",
+			"onion",
+			"garlic paste",
+			"ginger paste",
+			"tomato sauce",
+			"cayenne pepper",
+			"turmeric",
+			"coriander",
+			"garam masala",
+			"water",
+			"raisins",
+			"carrots",
+			"green bell pepper",
+			"green beans",
+			"green peas",
+			"potato",
+			"paneer",
+			"milk",
+			"heavy cream",
+			"salt"
+		]
+	},
+	{
+		"name": "aloo matar",
+		"cuisine": "indian",
+		"ingredients": [
+			"vegetable oil",
+			"onion",
+			"ginger garlic paste",
+			"bay leaf",
+			"potato",
+			"frozen peas",
+			"tomato puree",
+			"garam masala",
+			"paprika",
+			"white sugar",
+			"salt",
+			"cilantro"
+		]
+	},
+	{
+		"name": "mulligatawny soup",
+		"cuisine": "indian",
+		"ingredients": [
+			"vegetable oil",
+			"onion",
+			"garlic",
+			"ginger",
+			"green chili pepper",
+			"cinnamon",
+			"clove",
+			"coriander seed",
+			"cumin",
+			"turmeric",
+			"cardamom",
+			"curry",
+			"carrot",
+			"apple",
+			"potato",
+			"red lentils",
+			"chicken broth",
+			"tamarind concentrate",
+			"lemon juice",
+			"coconut milk",
+			"cilantro"
+		]
+	},
+	{
+		"name": "chicken cordon bleu",
+		"cuisine": "french",
+		"ingredients": [
+			"chicken",
+			"swiss cheese",
+			"ham",
+			"all-purpose flour",
+			"paprika",
+			"butter",
+			"dry white wine",
+			"chicken boullon granules",
+			"cornstarch",
+			"heavy whipping cream"
+		]
+	},
+	{
+		"name": "barigoule of spring vegetables",
+		"cuisine": "french",
+		"ingredients": [
+			"kosher salt",
+			"black pepper",
+			"snow peas",
+			"fresh peas",
+			"baby carrots",
+			"asparagus",
+			"coriander seeds",
+			"olive oil",
+			"garlic",
+			"bavy fennel",
+			"spring onions",
+			"vegetable stock",
+			"thyme",
+			"black peppercorns",
+			"bay leaf",
+			"vanilla bean",
+			"sherry vinegar",
+			"cilantro sprigs",
+			"maldon flake sea salt"
+		]
+	},
+	{
+		"name": "ratatouille",
+		"cuisine": "french",
+		"ingredients": [
+			"olive oil",
+			"garlic",
+			"dried parsley",
+			"eggplant",
+			"salt",
+			"parmesan cheese",
+			"zucchini",
+			"onion",
+			"mushroom",
+			"green bell pepper",
+			"tomato"
+		]
+	},
+	{
+		"name": "beef bourguignon",
+		"cuisine": "french",
+		"ingredients": [
+			"all-purpose flour",
+			"salt",
+			"ground black pepper",
+			"stew meat",
+			"butter",
+			"onion",
+			"carrot",
+			"garlic",
+			"red wine",
+			"bay leaf",
+			"parsley",
+			"dried thyme",
+			"mushroom",
+			"canned onion"
+		]
+	},
+	{
+		"name": "bacon and leek quiche",
+		"cuisine": "french",
+		"ingredients": [
+			"all-purpose flour",
+			"salt",
+			"cold unsalted butter",
+			"egg yolk",
+			"ice water",
+			"bacon",
+			"leeks",
+			"thyme leaves",
+			"white pepper",
+			"gruyere cheese",
+			"egg",
+			"heavy cream"
+		]
+	},
+	{
+		"name": "parsleyed new potatoes",
+		"cuisine": "french",
+		"ingredients": [
+			"baby yukon gold potato",
+			"light butter",
+			"parsley",
+			"kosher salt",
+			"ground pepper"
+		]
+	},
+	{
+		"name": "chicken fricassee",
+		"cuisine": "french",
+		"ingredients": [
+			"chicken thigh",
+			"salt",
+			"pepper",
+			"lemon peel",
+			"dried thyme",
+			"chicken broth",
+			"red potato",
+			"white mushroom",
+			"shallot",
+			"garlic",
+			"whole milk",
+			"butter",
+			"frozen fees",
+			"light sour cream",
+			"parsley"
+		]
+	},
+	{
+		"name": "omelet in a bag",
+		"cuisine": "french",
+		"ingredients": [
+			"egg",
+			"ham",
+			"cheddar cheese",
+			"onion",
+			"green bell pepper",
+			"tomato",
+			"salsa",
+			"mushroom"
+		]
+	},
+	{
+		"name": "skillet herbed chicken with mustard",
+		"cuisine": "french",
+		"ingredients": [
+			"dijon mustard",
+			"honey",
+			"dried tarragon",
+			"dried basil",
+			"dried thyme",
+			"salt",
+			"ground black pepper",
+			"vegetable oil",
+			"chicken breast halves",
+			"white wine"
+		]
+	},
+	{
+		"name": "sole with lemon cream",
+		"cuisine": "french",
+		"ingredients": [
+			"butter",
+			"sole fillets",
+			"salt",
+			"black pepper",
+			"flour",
+			"heavy cream",
+			"zest of lemon",
+			"lemon juice",
+			"parsley"
+		]
+	},
+	{
+		"name": "niku miso",
+		"cuisine": "japanese",
+		"ingredients": [
+			"yellow miso",
+			"hatcho miso",
+			"egg yolks",
+			"sugar",
+			"sake",
+			"vegetable oil",
+			"shiitake",
+			"white part of scallion",
+			"ginger",
+			"lean ground pork",
+			"sesame seeds"
+		]
+	},
+	{
+		"name": "kinpira gobo",
+		"cuisine": "japanese",
+		"ingredients": [
+			"chicken thigh",
+			"soy sauce",
+			"sake",
+			"sugar",
+			"carrot",
+			"vinegar",
+			"gobo",
+			"salt",
+			"vegetable oil"
+		]
+	},
+	{
+		"name": "shrimp gyoza",
+		"cuisine": "japanese",
+		"ingredients": [
+			"shrimp",
+			"chinese chives",
+			"soy sauce",
+			"sake",
+			"sesame oil",
+			"cornstarch",
+			"gyoza wrappers",
+			"oil",
+			"water",
+			"rice vinegar"
+		]
+	},
+	{
+		"name": "nabeyaki udon recipe",
+		"cuisine": "japanese",
+		"ingredients": [
+			"frozen udon",
+			"dashi",
+			"salt",
+			"soy sauce",
+			"mirin",
+			"sake",
+			"spinach",
+			"carrot",
+			"mushroom",
+			"kamaboko fishcake",
+			"green onion",
+			"chicken thigh",
+			"shrimp",
+			"hot pepper powder"
+		]
+	},
+	{
+		"name": "futomaki sushi",
+		"cuisine": "japanese",
+		"ingredients": [
+			"dried gourd",
+			"salt",
+			"sugar",
+			"soy sauce",
+			"cucumber",
+			"tamagoyaki",
+			"shrimp",
+			"nori",
+			"sushi rice"
+		]
+	},
+	{
+		"name": "tsukune",
+		"cuisine": "japanese",
+		"ingredients": [
+			"sugar",
+			"mirin",
+			"soy sauce",
+			"sake",
+			"chicken thigh",
+			"chicken cartilage",
+			"scallions (white part)",
+			"potato starch",
+			"salt",
+			"dried shiitake mushroom",
+			"pasteurized egg yolks"
+		]
+	},
+	{
+		"name": "ginger pork",
+		"cuisine": "japanese",
+		"ingredients": [
+			"pork chops",
+			"sake",
+			"miso",
+			"sugar",
+			"ginger"
+		]
+	},
+	{
+		"name": "chicken katsu",
+		"cuisine": "japanese",
+		"ingredients": [
+			"chicken breast",
+			"salt",
+			"pepper",
+			"all-purpose flour",
+			"egg",
+			"panko bread crumbs",
+			"oil"
+		]
+	},
+	{
+		"name": "miso soup",
+		"cuisine": "japanese",
+		"ingredients": [
+			"dashi granules",
+			"water",
+			"miso paste",
+			"silken tofu",
+			"green onion"
+		]
+	},
+	{
+		"name": "oriental cold noodle salad",
+		"cuisine": "japanese",
+		"ingredients": [
+			"dried soba noodles",
+			"dark sesame oil",
+			"rice vinegar",
+			"soy sauce",
+			"lime juice",
+			"zest of lime",
+			"brown sugar",
+			"garlic",
+			"red pepper flakes",
+			"carrot",
+			"salted peanuts",
+			"cilantro"
+		]
+	},
+	{
+		"name": "creamy potato salad with bacon",
+		"cuisine": "american",
+		"ingredients": [
+			"potato",
+			"kosher salt",
+			"black pepper",
+			"bacon",
+			"mayonnaise",
+			"sour cream",
+			"white wine vinegar",
+			"celery",
+			"parsley",
+			"tarragon"
+		]
+	},
+	{
+		"name": "pork chops with carolina rub",
+		"cuisine": "american",
+		"ingredients": [
+			"garlic powder",
+			"onion powder",
+			"sugar",
+			"paprika",
+			"chili powder",
+			"black pepper",
+			"salt",
+			"pork loin chops",
+			"cooking spray",
+			"barbecue sauce"
+		]
+	},
+	{
+		"name": "steak tips with peppered mushroom gravy",
+		"cuisine": "american",
+		"ingredients": [
+			"uncooked egg noodles",
+			"cooking spray",
+			"top sirloin steak",
+			"butter",
+			"shallots",
+			"baby bella mushroom",
+			"garlic",
+			"lower-sodium soy sauce",
+			"all-purpose flour",
+			"fat-free, lower-sodium beef broth",
+			"black pepper",
+			"salt",
+			"thyme sprigs",
+			"thyme leaves"
+		]
+	},
+	{
+		"name": "patty melts with grilled onions",
+		"cuisine": "american",
+		"ingredients": [
+			"vidalia",
+			"balsamic vinegar",
+			"cooking spray",
+			"extralean ground beef",
+			"salt",
+			"black pepper",
+			"creamy mustard blend",
+			"rye bread",
+			"reduced-fat jarlsberg cheese"
+		]
+	},
+	{
+		"name": "burger",
+		"cuisine": "american",
+		"ingredients": [
+			"thick-cut bacon",
+			"eggs",
+			"milk",
+			"onion",
+			"garlic",
+			"salt",
+			"peppber",
+			"ground lean beef",
+			"bread crumbs",
+			"red onion",
+			"yellow cheddar cheese",
+			"hamburger buns"
+		]
+	},
+	{
+		"name": "simple seafood chowder",
+		"cuisine": "american",
+		"ingredients": [
+			"vegetable oil",
+			"onion",
+			"streaky bacon",
+			"plain flour",
+			"fish stock",
+			"potato",
+			"mace",
+			"cayenne pepper",
+			"milk",
+			"fish pie mix",
+			"single cream",
+			"cooked mixed shellfish",
+			"parsley",
+			"crusty bread"
+		]
+	},
+	{
+		"name": "coob salad with buttermilk ranch dressing",
+		"cuisine": "american",
+		"ingredients": [
+			"baby gem lettuce",
+			"avocado",
+			"tomato",
+			"bacon",
+			"turkey breast",
+			"egg",
+			"buttermilk",
+			"light mayonnaise",
+			"white wine vinegar",
+			"dill",
+			"garlic clove"
+		]
+	},
+	{
+		"name": "salt beef club with cajun fries",
+		"cuisine": "american",
+		"ingredients": [
+			"potato",
+			"olive oil",
+			"cajun seasoning",
+			"mayonnaise",
+			"chive",
+			"dijon mustard",
+			"brown bread",
+			"radish",
+			"baby avocado",
+			"salt beef",
+			"little gem lettuce leaves"
+		]
+	},
+	{
+		"name": "sticky ribs with roast potato salad",
+		"cuisine": "american",
+		"ingredients": [
+			"pork spare ribs",
+			"onion",
+			"olive oil",
+			"garlic clove",
+			"smoked paprika",
+			"chilli powder",
+			"tomato passata",
+			"tomato puree",
+			"red wine vinegar",
+			"dark muscovado sugar",
+			"potato",
+			"rosemary sprigs"
+		]
+	},
+	{
+		"name": "baked buffalo chicken wings",
+		"cuisine": "american",
+		"ingredients": [
+			"garlic clove",
+			"olive oil",
+			"cider vinegar",
+			"paprika",
+			"worcestershire sauce",
+			"celery salt",
+			"pepper sauce",
+			"honey",
+			"chicken wings"
+		]
+	},
+	{
+		"name": "lasagna",
+		"cuisine": "italian",
+		"ingredients": [
+			"italian sausage",
+			"lean ground beef",
+			"onion",
+			"garlic",
+			"crushed tomatoes",
+			"tomato paste",
+			"tomato sauce",
+			"water",
+			"white sugar",
+			"dried basil leaves",
+			"fennel seeds",
+			"italian seasoning",
+			"salt",
+			"ground black pepper",
+			"parsley",
+			"lasagna noodles",
+			"ricotta cheese",
+			"egg",
+			"mozzarella cheese",
+			"parmesan cheese"
+		]
+	},
+	{
+		"name": "linguine with sun-dried tomatoes, olives, and lemon",
+		"cuisine": "italian",
+		"ingredients": [
+			"linguine pasta",
+			"julienned sun-dried tomatoes in oil",
+			"green olives",
+			"basil leaves",
+			"clove garlic",
+			"extra-virgin olive oil",
+			"zest of large lemon",
+			"parmesan",
+			"salt",
+			"ground black pepper"
+		]
+	},
+	{
+		"name": "linguine with tuna puttanesca",
+		"cuisine": "italian",
+		"ingredients": [
+			"kosher salt",
+			"linguine",
+			"extra-virgin olive oil",
+			"garlic",
+			"red pepper flakes",
+			"capers",
+			"kalamata olives",
+			"san marzano plum tomatoes",
+			"basil leaves",
+			"albacore tuna",
+			"ground pepper"
+		]
+	},
+	{
+		"name": "zucchini pasta primavera",
+		"cuisine": "italian",
+		"ingredients": [
+			"broccoli florets",
+			"olive oil",
+			"onion",
+			"garlic cloves",
+			"white mushrooms",
+			"carrot",
+			"red bell pepper",
+			"unsalted chicken stock",
+			"smooth cachew butter",
+			"lemon juice",
+			"dijon mustard",
+			"salt",
+			"black pepper",
+			"zucchini"
+		]
+	},
+	{
+		"name": "lentil and barley soup",
+		"cuisine": "italian",
+		"ingredients": [
+			"lentil",
+			"pearl barley",
+			"carrot",
+			"celery",
+			"onion",
+			"garlic cloves",
+			"dried basil",
+			"dried oregano",
+			"dried thyme",
+			"bay leaf",
+			"broth",
+			"water",
+			"crushed tomatoes",
+			"parsley",
+			"cider vinegar"
+		]
+	},
+	{
+		"name": "spaghetti sauce with meatballs",
+		"cuisine": "italian",
+		"ingredients": [
+			"lean ground beef",
+			"bread crumbs",
+			"dried parsley",
+			"parmesan cheese",
+			"ground black pepper",
+			"garlic powder",
+			"egg",
+			"onion",
+			"garlic",
+			"olive oil",
+			"whole peeled tomatoes",
+			"salt",
+			"white sugar",
+			"bay leaf",
+			"tomato paste",
+			"dried basil"
+		]
+	},
+	{
+		"name": "sausage soup",
+		"cuisine": "italian",
+		"ingredients": [
+			"italian sausage",
+			"garlic",
+			"beef broth",
+			"stewed tomatoes",
+			"carrot",
+			"great northern beans",
+			"zucchini",
+			"spinach",
+			"ground black pepper",
+			"salt"
+		]
+	},
+	{
+		"name": "gourmet mushroom risotto",
+		"cuisine": "italian",
+		"ingredients": [
+			"chicken broth",
+			"olive oil",
+			"portobello mushroom",
+			"white mushroom",
+			"shallots",
+			"arborio rice",
+			"dry white wine",
+			"sea salt",
+			"ground black pepper",
+			"chives",
+			"butter",
+			"parmesan cheese"
+		]
+	},
+	{
+		"name": "cranberry bean pasta fagioli",
+		"cuisine": "italian",
+		"ingredients": [
+			"extra-virgin olive oil",
+			"garlic",
+			"onion",
+			"red pepper flakes",
+			"rosemary",
+			"pancetta",
+			"san marzano tomatoes",
+			"kosher salt",
+			"cranberry beans in pods",
+			"bay leaves",
+			"parmesan cheese rind",
+			"small pasta",
+			"kale",
+			"parsley",
+			"ground pepper"
+		]
+	},
+	{
+		"name": "olive garden pasta e fagioli",
+		"cuisine": "italian",
+		"ingredients": [
+			"ground beef",
+			"onion",
+			"carrot",
+			"celery",
+			"garlic cloves",
+			"tomatoes",
+			"red kidney beans",
+			"great northern beans",
+			"tomato sauce",
+			"v8 vegetable juice",
+			"vinegar",
+			"salt",
+			"oregano",
+			"basil",
+			"pepper",
+			"thyme",
+			"ditali pasta"
+		]
+	},
+	{
+		"name": "grilled chicken with quinoa greek salad",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"quinoa",
+			"butter",
+			"red chilli",
+			"garlic clove",
+			"chicken mini fillets",
+			"extra-virgin olive oil",
+			"vince tomato",
+			"black kalamata olives",
+			"red onion",
+			"feta cheese",
+			"mint leaves",
+			"lemon zest"
+		]
+	},
+	{
+		"name": "potato salad",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"olive oil",
+			"onion",
+			"garlic clove",
+			"oregano",
+			"cherry tomatoes",
+			"roasted red pepper",
+			"potato",
+			"black olive",
+			"basil leaves"
+		]
+	},
+	{
+		"name": "lemon basil shrimp pasta",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"water",
+			"uncooked spaghetti",
+			"large shrimp",
+			"basil",
+			"drained capers",
+			"extra-virgin olive oil",
+			"lemon juice",
+			"salt",
+			"baby spinach"
+		]
+	},
+	{
+		"name": "orange-balsamic lamb chops",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"olive oil",
+			"orange rind",
+			"orange juice",
+			"lamb rib chops",
+			"kosher salt",
+			"ground black pepper",
+			"cooking spray",
+			"balsamic vinegar"
+		]
+	},
+	{
+		"name": "shrimp saganaki",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"jumbo shirmp",
+			"lemon juice",
+			"salt",
+			"extra-virgin olive oil",
+			"medium bulb fennel",
+			"scallions",
+			"small chilli pepper",
+			"chardonnay",
+			"feta cheese",
+			"ground pepper"
+		]
+	},
+	{
+		"name": "roasted eggplant and feta dip",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"eggplant",
+			"lemon juice",
+			"extra-virgin olive oil",
+			"feta cheese",
+			"red onion",
+			"red bell pepper",
+			"chilli pepper",
+			"basil",
+			"flat-leaf parsley",
+			"cayenne pepper",
+			"salt",
+			"sugar"
+		]
+	},
+	{
+		"name": "chicken kofte with zucchini",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"tzatziki",
+			"dry bread crumbs",
+			"onion",
+			"mint",
+			"cumin",
+			"kosher salt",
+			"black pepper",
+			"ground red pepper",
+			"ground chicken",
+			"olive oil",
+			"zucchini"
+		]
+	},
+	{
+		"name": "courgette and quinoa-stuffed peppers",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"red pepper",
+			"courgette",
+			"ready-to-eat quinoa",
+			"feta cheese",
+			"parsley"
+		]
+	},
+	{
+		"name": "bacon and brie omelette wedges with summer salad",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"olive oil",
+			"smoked lardon",
+			"egg",
+			"chives",
+			"brie",
+			"red wine vinegar",
+			"dijon mustard",
+			"cucumber",
+			"radish"
+		]
+	},
+	{
+		"name": "caponata",
+		"cuisine": "mediterranean",
+		"ingredients": [
+			"olive oil",
+			"aubergine",
+			"shallot",
+			"plum tomato",
+			"caper",
+			"raisin",
+			"celery sticks",
+			"red wine vinegar",
+			"toasted pine nuts",
+			"basil leaves",
+			"ciabatta",
+			"garlic clove"
+		]
+	},
+	{
+		"name": "pork dumplings",
+		"cuisine": "chinese",
+		"ingredients": [
+			"wonton wrappers",
+			"ground pork",
+			"ginger root",
+			"garlic",
+			"green onion",
+			"soy sauce",
+			"sesame oil",
+			"egg",
+			"chinese cabbage"
+		]
+	},
+	{
+		"name": "sweet and sour chicken",
+		"cuisine": "chinese",
+		"ingredients": [
+			"pineapple chunks",
+			"cornstarch",
+			"water",
+			"white sugar",
+			"distilled white vinegar",
+			"orange food color",
+			"boneless chicken breast halves",
+			"self-rising flour",
+			"vegetable oil",
+			"salt",
+			"ground white pepper",
+			"egg",
+			"green bell pepper"
+		]
+	},
+	{
+		"name": "fried rice",
+		"cuisine": "chinese",
+		"ingredients": [
+			"onion",
+			"oil",
+			"egg",
+			"soy sauce",
+			"sesame oil",
+			"chicken",
+			"carrot",
+			"frozen peas",
+			"cold cooked rice",
+			"green onions",
+			"bean sprouts",
+			"light soy sauce"
+		]
+	},
+	{
+		"name": "chicken and broccoli",
+		"cuisine": "chinese",
+		"ingredients": [
+			"broccoli florets",
+			"canola oil",
+			"toasted sesame oil",
+			"onion",
+			"ginger",
+			"garlic cloves",
+			"dried chillies",
+			"chicken breasts",
+			"smooth cashew butter",
+			"tamari",
+			"unsalted whole cachews",
+			"salt",
+			"ground black pepper"
+		]
+	},
+	{
+		"name": "spareribs with teriyaki glaze",
+		"cuisine": "chinese",
+		"ingredients": [
+			"pork spareribs",
+			"chinese five-spice powder",
+			"sea salt",
+			"ground black pepper",
+			"lower-sodium soy sauce",
+			"grapefruit juice",
+			"hoisin sauce",
+			"ketchup",
+			"rice vinegar",
+			"brown sugar",
+			"red chili",
+			"garlic cloves",
+			"ginger",
+			"sesame seeds",
+			"cilantro"
+		]
+	},
+	{
+		"name": "dumpling soup",
+		"cuisine": "chinese",
+		"ingredients": [
+			"lower-sodium chicken broth",
+			"ginger",
+			"soy sauce",
+			"shaohsing rice cooking wine",
+			"balsamic vinegar",
+			"dark sesame oil",
+			"sugar",
+			"salt",
+			"carrot",
+			"frozen chinese dumplings",
+			"pork",
+			"shrimp",
+			"scallions (white and green parts)",
+			"bag baby spinach",
+			"cilantro",
+			"chilli paste"
+		]
+	},
+	{
+		"name": "beef and broccoli",
+		"cuisine": "chinese",
+		"ingredients": [
+			"oyster sauce",
+			"toasted sesame oil",
+			"sherry",
+			"soy sauce",
+			"white sugar",
+			"cornstarch",
+			"beef round steak",
+			"vegetable oil",
+			"ginger root",
+			"garlic",
+			"broccoli"
+		]
+	},
+	{
+		"name": "black pepper beef and cabbage stir fry",
+		"cuisine": "chinese",
+		"ingredients": [
+			"vegetable oil",
+			"garlic",
+			"ground beef",
+			"small head cabbage",
+			"red bell pepper",
+			"soy sauce",
+			"cornstarch",
+			"water",
+			"ground black pepper"
+		]
+	},
+	{
+		"name": "peking pork chops",
+		"cuisine": "chinese",
+		"ingredients": [
+			"pork chops",
+			"brown sugar",
+			"ground ginger",
+			"soy sauce",
+			"ketchup",
+			"garlic",
+			"pepper",
+			"salt"
+		]
+	},
+	{
+		"name": "chicken enchiladas",
+		"cuisine": "mexican",
+		"ingredients": [
+			"butter",
+			"green onions",
+			"garlic powder",
+			"green chiles",
+			"condensed cream of mushroom soup",
+			"sour cream",
+			"cooked chicken breast",
+			"cheddar cheese",
+			"flour tortillas",
+			"milk"
+		]
+	},
+	{
+		"name": "chilaquiles",
+		"cuisine": "mexican",
+		"ingredients": [
+			"oil",
+			"onion",
+			"corn tortillas",
+			"egg",
+			"salt",
+			"mexican style hot tomato sauce",
+			"water",
+			"monterey jack cheese"
+		]
+	},
+	{
+		"name": "enchiladas verdes",
+		"cuisine": "mexican",
+		"ingredients": [
+			"garlic",
+			"serrano peppers",
+			"small green tomatillos",
+			"vegetable oil",
+			"corn tortillas",
+			"water",
+			"chicken boullion granules",
+			"rotisserie chicken",
+			"iceberg lettuce",
+			"cilantro leaves",
+			"mexican crema",
+			"cotija cheese"
+		]
+	},
+	{
+		"name": "mexican rice",
+		"cuisine": "mexican",
+		"ingredients": [
+			"tomato",
+			"medium white onion",
+			"medium jalapenos",
+			"long grain white rice",
+			"canola oil",
+			"garlic cloves",
+			"chicken broth",
+			"tomato paste",
+			"salt",
+			"cilantro",
+			"lime"
+		]
+	},
+	{
+		"name": "manicotti",
+		"cuisine": "mexican",
+		"ingredients": [
+			"lean ground beef",
+			"refried beans",
+			"chilli powder",
+			"oregano",
+			"manicotti",
+			"water",
+			"picante sauce",
+			"sour cream",
+			"monterey jack cheese",
+			"green onion",
+			"ripe olives"
+		]
+	},
+	{
+		"name": "salsa",
+		"cuisine": "mexican",
+		"ingredients": [
+			"dried arbol chiles",
+			"del monte stewed tomatoes",
+			"yellow onion",
+			"jalapeno",
+			"cilantro",
+			"garlic clove",
+			"lemon juice",
+			"pepper",
+			"salt"
+		]
+	},
+	{
+		"name": "chiles rellenos in tomato broth",
+		"cuisine": "mexican",
+		"ingredients": [
+			"medium white onions",
+			"lard",
+			"tomatoes with juice",
+			"cinnamon",
+			"black pepper",
+			"chicken stock",
+			"poblano peppers",
+			"monterey jack cheese",
+			"vegetable oil",
+			"skewers",
+			"egg",
+			"salt",
+			"flour",
+			"cilantro"
+		]
+	},
+	{
+		"name": "refried beans",
+		"cuisine": "mexican",
+		"ingredients": [
+			"oil",
+			"jalapenos",
+			"medium onions",
+			"garlic cloves",
+			"black beans",
+			"beer"
+		]
+	},
+	{
+		"name": "three bean salad",
+		"cuisine": "mexican",
+		"ingredients": [
+			"green beans",
+			"dark red kidney beans",
+			"garbanzo beans",
+			"red onion",
+			"green pepper",
+			"canola oil",
+			"white vinegar",
+			"sugar",
+			"salt",
+			"white pepper"
+		]
+	},
+	{
+		"name": "taco soup",
+		"cuisine": "mexican",
+		"ingredients": [
+			"ground turkey",
+			"onion",
+			"hidden valley ranch dressing mix",
+			"taco seasoning mix",
+			"pinto beans",
+			"chili beans",
+			"whole kernel corn",
+			"mexican-style tomatoes",
+			"diced tomatoes"
+		]
+	},
+	{
+		"name": "oxtail stew",
+		"cuisine": "african",
+		"ingredients": [
+			"celery",
+			"garlic",
+			"tomato paste",
+			"beef bouillon",
+			"water",
+			"whole black peppercorns",
+			"bay leaves",
+			"canola oil",
+			"beef oxtail",
+			"onion",
+			"salt",
+			"pepper",
+			"kidney beans",
+			"cornstarch"
+		]
+	},
+	{
+		"name": "koshari",
+		"cuisine": "african",
+		"ingredients": [
+			"brown lentils",
+			"water",
+			"long grain rice",
+			"elbow macaroni",
+			"vegetable oil",
+			"onion",
+			"garlic",
+			"diced tomatoes",
+			"red pepper flakes",
+			"salt",
+			"pepper"
+		]
+	},
+	{
+		"name": "kofta",
+		"cuisine": "african",
+		"ingredients": [
+			"ground beef",
+			"onion",
+			"egg yolk",
+			"oregano",
+			"salt",
+			"pepper",
+			"bamboo skewers"
+		]
+	},
+	{
+		"name": "cape malay curry",
+		"cuisine": "african",
+		"ingredients": [
+			"turmeric",
+			"cumin",
+			"coriander",
+			"chilli powder",
+			"cinnamon",
+			"salt",
+			"canola oil",
+			"onion",
+			"ginger",
+			"bay leaves",
+			"garlic clove",
+			"beef stew meat",
+			"less-sodium beef broth",
+			"water",
+			"green bell pepper",
+			"dried apricots",
+			"apricot spread",
+			"red wine vinegar",
+			"low-fat buttermilk"
+		]
+	},
+	{
+		"name": "pan-fried fish balls",
+		"cuisine": "african",
+		"ingredients": [
+			"water",
+			"chilli powder",
+			"salt",
+			"black pepper",
+			"egg",
+			"white bread",
+			"cod",
+			"parsley",
+			"garlic cloves",
+			"vegetable oil",
+			"all-purpose flour",
+			"cocktail sauce"
+		]
+	},
+	{
+		"name": "fish in coconut curry",
+		"cuisine": "african",
+		"ingredients": [
+			"skinless halibut",
+			"madras curry powder",
+			"salt",
+			"ground black pepper",
+			"canola oil",
+			"onion",
+			"red bell pepper",
+			"ginger",
+			"garlic cloves",
+			"tomato",
+			"lemon juice",
+			"light coconut milk",
+			"lemon wedges",
+			"cilantro"
+		]
+	},
+	{
+		"name": "berber tajine",
+		"cuisine": "african",
+		"ingredients": [
+			"saffron threads",
+			"warm water",
+			"ras el hanout",
+			"lamb shoulder",
+			"olive oil",
+			"ginger",
+			"turmeric",
+			"garlic cloves",
+			"cilantro",
+			"truss tomatoes",
+			"french shallots",
+			"baby carrots",
+			"baby potatoes",
+			"green olives",
+			"flat-leaf parsley",
+			"roasted argan oil"
+		]
+	},
+	{
+		"name": "slow-cooked lamb, sweet potato and okra stew",
+		"cuisine": "african",
+		"ingredients": [
+			"vegetable oil",
+			"lamb shoulder",
+			"onion",
+			"carrot",
+			"celery stalks",
+			"garlic cloves",
+			"long red chilies",
+			"tomato paste",
+			"cayenne pepper",
+			"beef stock",
+			"orange sweet potato",
+			"okra",
+			"baby spinach"		]
+	},
+	{
+		"name": "peanut butter chicken skewers with ginger yoghurt",
+		"cuisine": "african",
+		"ingredients": [
+			"vegetable oil",
+			"onion",
+			"garlic cloves",
+			"long red chili",
+			"tomato paste",
+			"crunchy peanut butter",
+			"coconut cream",
+			"brown sugar",
+			"lemon juice",
+			"skinless chicken thighs",
+			"coriander sprigs",
+			"lemon wedges",
+			"thick greek-style yoghurt",
+			"ginger",
+			"garlic clove"
+		]
+	},
+	{
+		"name": "whole marinated fish with nsima and ujeni ndiwo",
+		"cuisine": "african",
+		"ingredients": [
+			"fish",
+			"olive oil",
+			"chilli sauce",
+			"lemon juice",
+			"red chilli",
+			"coriander",
+			"vegetable stock",
+			"maize flour",
+			"butter",
+			"salt",
+			"pepper",
+			"onion",
+			"tomato",
+			"spinach",
+			"cabbage",
+			"mustard leaves",
+			"kale",
+			"ginger",
+			"edible flowers"
+		]
+	},
+	{
+		"name": "beef and beet borscht",
+		"cuisine": "russian",
+		"ingredients": [
+			"bone-in beef shank",
+			"water",
+			"onion",
+			"carrots",
+			"celery",
+			"bay leaf",
+			"peeled beets",
+			"cabbage",
+			"white vinegar",
+			"salt",
+			"ground black pepper",
+			"sour cream",
+			"dill"
+		]
+	},
+	{
+		"name": "chicken kiev",
+		"cuisine": "russian",
+		"ingredients": [
+			"butter",
+			"ground black pepper",
+			"garlic powder",
+			"skinless, boneless chicken breast halves",
+			"egg",
+			"water",
+			"dried dill weed",
+			"all-purpose flour",
+			"dry bread crumbs",
+			"vegetable oil",
+			"lemon",
+			"parsley"
+		]
+	},
+	{
+		"name": "borscht with meat",
+		"cuisine": "russian",
+		"ingredients": [
+			"beets",
+			"red wine vinegar",
+			"white sugar",
+			"lean beef chuck",
+			"water",
+			"bacon",
+			"salt",
+			"black peppercorns",
+			"parsley",
+			"dried marjoram",
+			"dill seed",
+			"cabbage",
+			"leeks",
+			"onion",
+			"carrot",
+			"polish sausage",
+			"dill weed"
+		]
+	},
+	{
+		"name": "beef stroganoff",
+		"cuisine": "russian",
+		"ingredients": [
+			"beef chuck roast",
+			"salt",
+			"ground black pepper",
+			"butter",
+			"green onions",
+			"all-purpose flour",
+			"condensed beef broth",
+			"prepared mustard",
+			"sliced mushrooms",
+			"sour cream",
+			"white wine"
+		]
+	},
+	{
+		"name": "vareniky",
+		"cuisine": "russian",
+		"ingredients": [
+			"milk",
+			"sunflower seed oil",
+			"egg yolk",
+			"all-purpose flour",
+			"salt",
+			"hot water",
+			"potatoes",
+			"onions",
+			"vegetable oil",
+			"pepper"
+		]
+	},
+	{
+		"name": "stuffed cabbage rolls",
+		"cuisine": "russian",
+		"ingredients": [
+			"water",
+			"uncoocked white rice",
+			"cabbage leaves",
+			"lean ground beef",
+			"onion",
+			"egg",
+			"salt",
+			"ground black pepper",
+			"condensed tomato soup"
+		]
+	},
+	{
+		"name": "sweet cabbage soup",
+		"cuisine": "russian",
+		"ingredients": [
+			"ground lean beef",
+			"diced tomatoes",
+			"tomato sauce",
+			"beef bouillon",
+			"carrots",
+			"onion",
+			"white vinegar",
+			"white sugar",
+			"salt",
+			"ground black pepper",
+			"water",
+			"garlic",
+			"cabbage"
+		]
+	},
+	{
+		"name": "green bean and potato soup",
+		"cuisine": "russian",
+		"ingredients": [
+			"vegetable oil",
+			"onion",
+			"potatoes",
+			"green beans",
+			"chicken broth",
+			"whole-wheat flour",
+			"sour cream",
+			"sauerkraut with juice",
+			"fresh dill",
+			"salt",
+			"pepper"
+		]
+	},
+	{
+		"name": "ukha",
+		"cuisine": "russian",
+		"ingredients": [
+			"water",
+			"potatoes",
+			"onion",
+			"parsley",
+			"cod fillets",
+			"lemon",
+			"salt",
+			"pepper"
+		]
+	},
+	{
+		"name": "solianka",
+		"cuisine": "russian",
+		"ingredients": [
+			"dried mushrooms",
+			"water",
+			"unsalted butter",
+			"onions",
+			"cooked diced veal",
+			"diced ham",
+			"kielbasa sausage",
+			"beef stock",
+			"bay leaves",
+			"black peppercorns",
+			"dill pickles",
+			"capers",
+			"marinated mushrooms",
+			"italian-style whole peeled tomatoes",
+			"tomato paste",
+			"all-purpose flour",
+			"kalamata olives",
+			"dill weed",
+			"dried marjoram",
+			"garlic",
+			"dill pickle juice",
+			"hungarian sweet paprika",
+			"salt",
+			"ground black pepper"
+		]
+	}
+]
